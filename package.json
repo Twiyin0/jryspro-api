@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "node ."
+  },
+  "devDependencies": {
+    "csv-parser": "^3.0.0",
+    "express": "^4.18.2"
+  }
+}
